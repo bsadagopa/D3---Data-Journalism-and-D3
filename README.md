@@ -1,7 +1,9 @@
 # Unit 16 | Assignment - Data Journalism and D3
 
-## Completed Level 1 - D3 Screenshot "HW16-Screenshot.png" attached.
-### Completed Level 1 and Level2 
+## Completed Level 1 and Level2 
+### All screenshots atached. 
+### Please run the program to see the toottips.
+
 ### Level 1: D3 Dabbler with tooltips
 
 ## "Poverty Vs Healthcare Screenshot": 
